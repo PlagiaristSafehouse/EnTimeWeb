@@ -1,0 +1,9 @@
+title: EncTimeWeb
+description: EncTimeCode converts video with embedded LTC audio into video files with timecode metadata.
+markdown: kramdown
+plugins:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
