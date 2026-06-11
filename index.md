@@ -1,9 +1,9 @@
 ---
 layout: page
-title: EncTimeCode for iOS
+title: EnTimeCode for iOS
 ---
 
-EncTimeCode converts video with embedded LTC audio into video files with timecode metadata.
+EnTimeCode converts video with embedded LTC audio into video files with timecode metadata.
 
 ## Latest updates
 

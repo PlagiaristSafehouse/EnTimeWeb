@@ -1,6 +1,6 @@
 # EncTimeWeb
 
-Jekyll website for EncTimeCode (iOS app that converts video with embedded LTC audio into video with timecode metadata).
+Jekyll website for EnTimeCode (iOS app that converts video with embedded LTC audio into video with timecode metadata).
 
 ## Local development
 

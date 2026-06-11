@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About EncTimeCode
+title: About EnTimeCode
 permalink: /pages/about/
 ---
 
-EncTimeCode is an iOS application focused on reliable LTC-based timecode conversion workflows.
+EnTimeCode is an iOS application focused on reliable LTC-based timecode conversion workflows.
 
 ### What it does
 
